@@ -1,5 +1,8 @@
 # Food-Site
 
+# Preview
+![](https://github.com/silan4/Food-Site/blob/main/yemeksitesi.gif)
+
 ## Proje Hakkında
 
 Bu proje, çok sayfalı bir restorant sitesidir.
@@ -11,7 +14,7 @@ Bu proje, çok sayfalı bir restorant sitesidir.
 - JavaScript
 - Google Fonts
 
-![Uploading yemeksitesi.gif…]()
+
 
 
 
